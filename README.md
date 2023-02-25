@@ -10,7 +10,7 @@
 
 ## Tech Stack
 
-**Client:** React, Redux, react-router-dom, react-redux, @reduxjs/toolkit, typescript
+**Client:** React, Redux, react-router-dom, react-redux, @reduxjs/toolkit, typescript, i18next, material-UI
 
 
 

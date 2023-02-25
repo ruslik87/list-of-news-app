@@ -14,7 +14,7 @@ export const LoginForm = styled('form')({
   alignItems: 'center',
   justifyContent: 'center',
   gap: '30px',
-  width: '390px',
+  width: '400px',
   padding: '3rem',
   backgroundColor: '#fff',
   borderRadius: '10px',
