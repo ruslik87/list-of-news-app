@@ -1,0 +1,33 @@
+{
+  "appTitle": "Fresh News",
+  "home": {
+    "linkTitle": "Home",
+    "title": "Welcome to the home page!",
+    "description": "The home page of the application allows users to receive the latest news in two languages. The application supports English and Ukrainian, and users can easily switch between them using the language switch in the upper right corner of the page. The main page contains the 'News' tab, where users can view the latest news that appeared on the site. To make the application more convenient, users can register and log in on the site."
+  },
+  "news": {
+    "linkTitle": "News",
+    "title": "News",
+    "downloadButton": "Download more",
+    "deleteButton": "Delete"
+  },
+  "profile": {
+    "linkTitle": "Profile",
+    "title": "User information",
+    "name": "Name: Maksim",
+    "email": "Email: maksim@gmail.com",
+    "role": "User type: admin",
+    "logout": "Logout"
+  },
+  "form": {
+    "title": "Login",
+    "name" : "Username",
+    "password" : "Password",
+    "button": "Login",
+    "error": "The user name or password is incorrect."
+  },
+  "login": "Login",
+  "logout": "Logout",
+  "pageNotFound": "Page not found",
+  "error": "Loading error. Please try again later."
+}

@@ -15,6 +15,14 @@
         "alphabetize": { "order": "asc", "caseInsensitive": true }
       }
     ],
+    "no-param-reassign": [
+      "error",
+      {
+      "props": true,
+      "ignorePropertyModificationsFor": [
+        "state"
+      ]
+    }],
     "import/no-unresolved": "error",
     "no-console": "warn",
     "react/prop-types": "off"
