@@ -30,7 +30,7 @@ export const NewsPage = () => {
   };
 
   return (
-    <Box sx={{ flexGrow: '1', m: '3rem' }}>
+    <Box sx={{ p: 5 }}>
       <Typography variant="h4" gutterBottom>
         {t('news.title')}
       </Typography>

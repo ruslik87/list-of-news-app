@@ -25,7 +25,7 @@ export const ProfilePage = () => {
   };
 
   return (
-    <Paper sx={{ p: '2rem', m: '2rem' }}>
+    <Paper sx={{ p: 3, m: 5 }}>
       <Typography variant="h4" gutterBottom>
         {t('profile.title')}
       </Typography>
